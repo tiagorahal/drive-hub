@@ -1,5 +1,3 @@
-Certainly! Below is a template README for your React Native project, "Drive Hub," which is a clone of Uber. Feel free to customize it to fit the specifics of your project:
-
 ---
 
 # Drive Hub
@@ -51,6 +49,21 @@ To get a local copy up and running follow these simple steps:
    const API_KEY = 'ENTER YOUR API KEY';
    ```
 
+### Running the App
+
+1. To start the app, run:
+   ```sh
+   npm start
+   ```
+2. For iOS, run:
+   ```sh
+   npx react-native run-ios
+   ```
+3. For Android, run:
+   ```sh
+   npx react-native run-android
+   ```
+
 ## Contribution
 
 Drive Hub is an open-source project, and contributions are welcome. If you have suggestions for how to improve, please fork the repo and create a pull request. You can also open an issue with the tag "enhancement".
@@ -58,3 +71,11 @@ Drive Hub is an open-source project, and contributions are welcome. If you have 
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
+## Contact
+
+Your Name - [@your_twitter](https://twitter.com/your_twitter)
+
+Project Link: [https://github.com/your_username_/drive-hub](https://github.com/your_username_/drive-hub)
+
+---
