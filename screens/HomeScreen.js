@@ -5,7 +5,7 @@ import tw from "tailwind-react-native-classnames";
 const HomeScreen = () => {
   return (
     <SafeAreaView style={tw`bg-white h-full`}>
-      <View style={tw`p-5`}>
+      <View style={tw`px-5 py-8`}>
         <Image
           style={{
             width: 100,
